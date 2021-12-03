@@ -25,6 +25,7 @@
 ```
 -  Don't forget to fork/star it 🌟
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akshat7678/TelegraphUploder)
+## Deploy!
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThePro-CoderZ/TelegraphUploder)
 
 # A Bot By [ThePro-CoderZ](https://github.com/ThePro-CoderZ)
